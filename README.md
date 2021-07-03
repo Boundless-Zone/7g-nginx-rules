@@ -13,9 +13,9 @@ https://gridpane.com/kb/using-the-7g-web-application-firewall/#custom-rules.
 To contribute rules to the repository, follow these steps:
 
 1. Fork this repo.
-2. Create a folder for the tool. If the rule is for a WordPress plugin, use the plugin's slug for the folder name.
+2. Create a folder for the tool. If the rule is for a WordPress plugin, use the plugin's slug for the folder name. Find a suitable descriptive slug if it's something else.
 3. Add your rules to the folder.
-4. We recommend adding a Markdown file named after the rule to your folder for credit and to document the rule.
+4. Add a Markdown file named README.md to the exception folder to document the rule and for credit.
 5. Send a pull request.
 
 Check out the existing examples for the recommended file and folder structure.
