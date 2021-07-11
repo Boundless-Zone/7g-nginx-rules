@@ -1,4 +1,4 @@
-# Amelia API exclusion
+# iThemes Security 7 exclusion
 
 The 7g firewall blocks the iThemes Security 7 pages, apparently because they use the `~` (tilde) character in the file names.
 
