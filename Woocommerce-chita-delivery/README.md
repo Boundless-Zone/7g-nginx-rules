@@ -1,4 +1,4 @@
-# Amelia API exclusion
+# WooCommerce Chita exclusion
 
 It looks like the 7g firewall is flagging the `ajaxurl` querystring value.
 This rule excludes that parameter.
